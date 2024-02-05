@@ -30,7 +30,9 @@ Cloud watch demo
 
 ## As set the alaram if the value goes above 50% it will automatically give an notification over email as shown below image 
 
-![Screenshot (425)](https://github.com/Yeshwant-Jadhav/Cloud-Watch/assets/153003135/ff4dfb52-f4c4-4047-bf87-b559e4b58b83)
+![Screenshot (426)](https://github.com/Yeshwant-Jadhav/Cloud-Watch/assets/153003135/1ebf0c17-0b9a-4ae9-98b0-972e591c113d)
+
+
 
 
 
